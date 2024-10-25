@@ -16,6 +16,5 @@ jobs:
     steps:
      # Runs a single command using the runners shell
       - name: Step1         
-        run: echo Hello, world!
-         
+        run: mkdir D:\Test\Test1      
 
